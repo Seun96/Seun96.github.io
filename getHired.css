@@ -4,6 +4,8 @@ font-family: 'helvetica';
 font-size:  25px ; text-align: center;
  }
 
+p { text-align: center ; }
+
  body {
 
  background-color: black;
